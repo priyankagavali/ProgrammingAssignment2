@@ -20,6 +20,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 }
+
 ## The function cacheSolve takes the output of the previous matrix makeCacheMatrix(matrix) as an 
 # input and checks inverse matrix from makeCacheMatrix(matrix) has any value in it or not.
 # In case inverse matrix from makeCacheMatrix((matrix) is empty, it gets the original matrix data from 
